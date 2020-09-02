@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![MeixDev's github stats](https://github-readme-stats.vercel.app/api?username=meixdev&theme=synthwave&show_icons=true)](https://github.com/MeixDev)
+
+Currently vibing as a Flutter developer ! ⚡
+
 <!--
 **MeixDev/MeixDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
