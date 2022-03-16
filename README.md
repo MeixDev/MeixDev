@@ -8,6 +8,14 @@ Currently vibing as a Flutter developer ! ⚡
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/meixdev)](https://badges.pufler.dev)
 
+### Languages and Tools:
+
+<p align="center">
+
+<a href="https://flutter.dev/" target="_blank"> <img align="left" alt="Flutter" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/flutter/flutter.svg"> </a>
+
+</p>
+
 <!--
 **MeixDev/MeixDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
