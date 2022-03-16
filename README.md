@@ -1,32 +1,69 @@
-### Hi there 👋
+<h1 align="center">Hey, I'm Meï ! 🦾</h1>
 
-[![MeixDev's github stats](https://github-readme-stats.vercel.app/api?username=meixdev&theme=synthwave&show_icons=true)](https://github.com/MeixDev)
+**{WIP}**: Social Icons here, with the special fragments `#gh-light-mode-only` and `#gh-dark-mode-only`. Example with an Angular SVG:
 
-Currently vibing as a Flutter developer ! ⚡
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/angular.svg#gh-light-mode-only" alt="Angular" align=left width=24 height=24><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/angular-white.svg#gh-dark-mode-only" alt="Angular" align=left width=24 height=24>
 
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<br>
+<br>
+
+<img align="center" alt="Cyberpunkish Pixel Art City" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/cyberpunk.gif">
+
+<br>
+<br>
+
+**As a quick review of myself:**
+
+- I'm currently vibing as a Flutter developer ! ⚡💙
+- I'm trying to organize some Flutter meetups in Lyon, France !
+- My favorite video games probably are `The Legend of Zelda: Majora's Mask` and `Cyberpunk Bartender Action: VA-11 Hall-A`, and I can only recommend them !
+
+<br>
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/meixdev)](https://badges.pufler.dev)
 
-### Languages and Tools:
+<h1 align="center">Languages and Tools</h1>
 
 <p align="center">
-
-<a href="https://flutter.dev/" target="_blank"> <img align="left" alt="Flutter" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/flutter/flutter.svg"> </a>
-
+<a href="https://dart.dev/" target="_blank"><img title="Dart" alt="Dart" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/dart/dart.svg"></a>
+<a href="https://flutter.dev/" target="_blank"><img title="Flutter" alt="Flutter" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/flutter/flutter.svg"></a>
+<a href="https://docs.flutter.dev/development/ui/widgets/material" target="_blank"><img title="Flutter Material widgets" alt="Flutter Material widgets" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/material-ui/material-ui.svg"></a>
+<a href="https://appwrite.io/" target="_blank"><img title="Appwrite" alt="Appwrite" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/appwrite/appwrite.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"><img title="Firebase" alt="Firebase" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/firebase/firebase.svg"></a>
 </p>
 
-<!--
-**MeixDev/MeixDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img title="C" alt="C" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/c/c.svg">
+<img title="C++" alt="C++" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/c++/c++.svg">
+<img title="C#" alt="C#" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/c%23/c%23.svg">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img title="HTML5" alt="HTML5" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/html/html.svg">
+<img title="CSS" alt="CSS" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/css/css.svg">
+<a href="https://sass-lang.com/" target="_blank"><img title="Sass" alt="Sass" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/sass/sass.svg"></a>
+<img title="JavaScript" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/javascript/javascript.svg">
+<a href="https://www.typescriptlang.org/" target="_blank"><img title="TypeScript" alt="TypeScript" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://nodejs.org/en/" target="_blank"><img title="NodeJS" alt="NodeJS" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/node/node.svg"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://git-scm.com/" target="_blank"><img title="Git" alt="Git" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/git-scm/git-scm.svg"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img title="VSCode" alt="VSCode" height="42px" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/language_and_tools/square/vscode/vscode.svg"></a>
+</p>
+
+<h1 align="center">GitHub Infos</h1>
+
+<p align="center">
+<img alt="MeixDev's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=meixdev&theme=synthwave&show_icons=true">
+</p>
+
+<br>
+
+**{WIP}**: Something something anime waifu here.
+
+<br>
+
+<p align="end">
+<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png" height="48px">
+</p>
