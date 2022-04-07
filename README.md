@@ -2,7 +2,9 @@
 
 **{WIP}**: Social Icons here, with the special fragments `#gh-light-mode-only` and `#gh-dark-mode-only`. Example with an Angular SVG:
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/angular.svg#gh-light-mode-only" alt="Angular" align=left width=24 height=24><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/angular-white.svg#gh-dark-mode-only" alt="Angular" align=left width=24 height=24>
+<p align="center"
+<a href="https://twitter.com/meixdev" target="_blank"><img src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/svgs/twitter.svg#gh-light-mode-only" alt="Twitter" width=24 height=24><img src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/svgs/twitter-dark.svg#gh-dark-mode-only" alt="Twitter" width=24 height=24></a>
+</p>
 
 <br>
 <br>
