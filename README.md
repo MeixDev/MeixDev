@@ -1,7 +1,21 @@
 <h1 align="center">Hey, I'm Meï ! 🦾</h1>
 
 <p align="center">
-<a href="https://twitter.com/meixdev" target="_blank"><img src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/twitter.png#gh-light-mode-only" alt="Twitter" width=32 height=32><img src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/twitter-dark.png#gh-dark-mode-only" alt="Twitter" width=32 height=32></a>
+<a href="https://twitter.com/meixdev" target="_blank"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/twitter-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/twitter.png">
+    <img alt="Twitter" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/twitter.png" width=40 height=40>
+</picture></a>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/dot-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/dot.png">
+    <img alt="Dot" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/dot.png" width=20 height=40>
+</picture>
+<a href="https://medium.com/@meixdev" target="_blank"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/medium-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/medium.png">
+    <img alt="Medium" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/medium.png" width=40 height=40>
+</picture></a>
 </p>
 
 <br>
