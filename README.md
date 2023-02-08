@@ -1,9 +1,7 @@
 <h1 align="center">Hey, I'm Meï ! 🦾</h1>
 
-**{WIP}**: Social Icons here, with the special fragments `#gh-light-mode-only` and `#gh-dark-mode-only`. Example with an Angular SVG:
-
 <p align="center">
-<a href="https://twitter.com/meixdev" target="_blank"><img src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/svgs/twitter.svg#gh-light-mode-only" alt="Twitter" width=32 height=32><img src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/svgs/twitter-dark.svg#gh-dark-mode-only" alt="Twitter" width=32 height=32></a>
+<a href="https://twitter.com/meixdev" target="_blank"><img src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/twitter.png#gh-light-mode-only" alt="Twitter" width=32 height=32><img src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/twitter-dark.png#gh-dark-mode-only" alt="Twitter" width=32 height=32></a>
 </p>
 
 <br>
@@ -21,8 +19,6 @@
 - My favorite video games probably are `The Legend of Zelda: Majora's Mask` and `Cyberpunk Bartender Action: VA-11 Hall-A`, and I can only recommend them !
 
 <br>
-
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/meixdev)](https://badges.pufler.dev)
 
 <h1 align="center">Languages and Tools</h1>
 
@@ -66,6 +62,6 @@
 
 <br>
 
-<p align="end">
-<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png" height="48px">
+<p align="right">
+<a href="https://ko-fi.com/meixdev" target="_blank"><img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png" height="48px"></a>
 </p>
