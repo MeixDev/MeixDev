@@ -31,10 +31,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/dot.png">
     <img alt="Dot" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/dot.png" width=20 height=40>
 </picture>
-<a href="https://stackoverflow.com/users/13923049/me%c3%af-m" target="_blank"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/stackoverflow-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/stackoverflow.png">
-    <img alt="Stack Overflow" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/stackoverflow.png" width=40 height=40>
+<a href="https://www.reddit.com/user/MeixDev" target="_blank"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/reddit-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/reddit.png">
+    <img alt="Reddit" src="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/reddit.png" width=40 height=40>
 </picture></a>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeixDev/MeixDev/master/assets/pngs/dot-dark.png">
